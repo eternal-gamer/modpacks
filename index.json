@@ -1,5 +1,5 @@
 {
-    "baseUrl": "github://JamieKG@modpacks/",
+    "baseUrl": "github://eternal-gamer@modpacks/",
     "index": [
         {
             "uid": "eg.tfc",
@@ -14,5 +14,5 @@
             "url": "IronChests.json"
         },
     ],
-    "repo": "JamieKG.Modpacks"
+    "repo": "eternal-gamer.Modpacks"
 }
