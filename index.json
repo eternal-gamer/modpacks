@@ -1,0 +1,18 @@
+{
+    "baseUrl": "github://JamieKG@modpacks/",
+    "index": [
+        {
+            "uid": "eg.tfc",
+            "url": "EG_Tfc.json"
+        },
+        {
+            "uid": "ic2.core",
+            "url": "IndustrialCraft2.json"
+        },
+        {
+            "uid": "cpw.mods.ironchest",
+            "url": "IronChests.json"
+        },
+    ],
+    "repo": "JamieKG.Modpacks"
+}
